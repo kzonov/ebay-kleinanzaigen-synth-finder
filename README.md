@@ -4,7 +4,7 @@ An intelligent AI agent that automatically monitors eBay Kleinanzeigen for Teena
 
 ## 📖 Blog Post
 
-Read the full story behind this project: **[My Dive into Agentic AI: Building a Smart Shopping Assistant with Strands](https://zonov.me/strands-ai-for-ebay-synth-hunting/)**
+Read the full story behind this project: **[My Dive into Agentic AI: Building a Smart Shopping Assistant with Strands](https://zonov.me/strands-ai-for-synth-hunting/)**
 
 ## 🤖 What It Does
 
