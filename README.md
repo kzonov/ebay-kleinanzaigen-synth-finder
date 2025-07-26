@@ -1,4 +1,4 @@
-# 🎹 OP-1 Finder: AI-Powered eBay Kleinanzeigen Monitor
+# 🎹 Synth Finder: AI-Powered eBay Kleinanzeigen Monitor
 
 An intelligent AI agent that automatically monitors eBay Kleinanzeigen for Teenage Engineering OP-1 synthesizers matching your specific criteria and sends notifications via Telegram when good deals are found. This is a DEMO project and might not work as expected in a year from now.
 
