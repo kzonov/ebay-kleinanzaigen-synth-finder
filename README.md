@@ -270,6 +270,12 @@ IMPORTANT: Be extremely verbose about your process:
 """
 ```
 
+## Result
+
+Here is an example of how the result may look like:
+
+![Screenshot from a telegram bot](/telegram-result.png)
+
 ## 🤝 Contributing
 
 1. Fork the repository
